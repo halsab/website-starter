@@ -5,8 +5,11 @@ This repository contains a foundation specification, not application source code
 ## Workflow
 
 1. Create or open an empty repository.
-2. Copy the initialization prompt below, replace `<project-name>`, and run it in Codex.
-3. Review the generated foundation, then begin product development.
+2. Copy the initialization prompt below.
+3. Replace `<project-name>` with the project name.
+4. Run the prompt in Codex.
+5. Review the generated foundation.
+6. Begin product development.
 
 ## Initialization prompt
 
